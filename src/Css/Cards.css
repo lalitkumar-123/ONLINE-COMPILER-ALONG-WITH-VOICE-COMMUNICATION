@@ -1,0 +1,27 @@
+.card {
+  margin: auto;
+  text-align: start;
+  height: 50vh;
+  border: 2px solid black;
+  margin-top: 10%;
+  min-width: 300px;
+  width: 35%;
+  padding: 10px;
+}
+
+.form-group {
+  margin-top: 50px;
+}
+
+.list-item {
+  list-style: none;
+}
+
+.list-main {
+  margin-top: 80px;
+}
+
+.class-body {
+  width: 75%;
+  margin: auto;
+}

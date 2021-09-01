@@ -1,0 +1,26 @@
+.list {
+  margin-left: 112px;
+  width: 220px;
+  box-shadow: none !important;
+}
+
+.list-header {
+  width: 180px;
+  box-shadow: none !important;
+}
+
+.list-footer {
+  margin-left: 112px;
+  width: 180px;
+  box-shadow: none !important;
+}
+
+.button1 {
+  margin-left: 250px;
+  margin-top: 10px;
+}
+
+.button2 {
+  margin-left: 40px;
+  margin-top: 10px;
+}
